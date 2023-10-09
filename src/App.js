@@ -1,5 +1,9 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import Contacts from './components/Contacts';
+import Projects from './components/Projects';
+import Skills from './components/Skills';
+import NavBar from './components/Navbar';
 
 function App() {
   return (
@@ -7,9 +11,12 @@ function App() {
       <header className="App-header">
         Kenneth Peterson's Development Portfolio
       </header>
-      {/* <Projects />
+      <main>
+      <NavBar />
+      <Projects />
       <Skills />
-      <Contacts /> */}
+      <Contacts />
+      </main>
     </div>
   );
 }
