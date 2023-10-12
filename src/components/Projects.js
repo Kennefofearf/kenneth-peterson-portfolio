@@ -21,6 +21,8 @@ export default function Projects() {
                     <h2>
                         {project.description}
                     </h2>
+                    <a href={project.link} key={project.image} />
+                    <img src={project.image} />
                     </div>
                 ))}
             </div>
