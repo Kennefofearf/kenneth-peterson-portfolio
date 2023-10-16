@@ -1,3 +1,5 @@
+// Contains data for use with projects.js
+
 export const projects = [
     {
         title: "COVID-App",
@@ -9,7 +11,7 @@ export const projects = [
     {
         title: "Caddy's Poo Factory",
         description: "An ecommerce app that sells rabbit manure to farmers or gardners.",
-        image: "./cpf.png",
+        image: "./Cpf.png",
         gitLink: "https://github.com/Kennefofearf/caddys-poo-factory",
     },
     {
