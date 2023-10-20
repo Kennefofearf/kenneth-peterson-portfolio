@@ -1,6 +1,8 @@
 import React from "react";
 import { projects } from "./data";
 
+// Imports data from data.js to display projects on the page.
+
 export default function Projects() {
     return (
         <section id="projects" className="projects">
