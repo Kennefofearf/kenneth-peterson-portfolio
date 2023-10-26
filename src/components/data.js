@@ -1,3 +1,4 @@
+import "../data.css";
 import covidImg from "./covidapp.PNG";
 import cpfImg from "./Cpf.PNG";
 import ES1Img from "./ES1.png";

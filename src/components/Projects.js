@@ -1,5 +1,4 @@
 import React from "react";
-import "../Projects.css";
 import { projects } from "./data";
 
 // Imports data from data.js to display projects on the page.
