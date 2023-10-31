@@ -3,6 +3,8 @@ import covidImg from "./covidapp.PNG";
 import cpfImg from "./Cpf.PNG";
 import ES1Img from "./ES1.png";
 
+/* <img alt="" className="Img" src={covidImg} /> */
+
 // Contains data for use with projects.js
 
 export const projects = [
